@@ -1,0 +1,1 @@
+I modified the python filter to find staffers who are paid more than $40,000 per year and saved them to output.csv.  Then I used csvstat to pull summary statistics on this group.  The mean salary for this group is just over $42,000 per year.
