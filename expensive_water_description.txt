@@ -1,0 +1,5 @@
+First, we created a python file in the assignments directory which uses the csv library in python to read a csv file and execute the following for loop: For each row in the file, if the row's "Purpose" column value is equal to "WATER" and the row's "Amount" column value is greater than 1000, the program writes that row to its output.
+
+Second, after saving this program to the assignments directory, we executed it on a csv file from ProPublica and saved the output to a new csv file called expensive_water.csv.
+
+Finally, we used the command line function csvstat to input expensive_water.csv and output descriptive statistics about the data in the file, which we saved to the file expensive_water_summary.txt.
