@@ -1,0 +1,179 @@
+   1. "BIOGUIDE_ID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (52x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         29 characters
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (28x)
+	                       CLERK OF THE HOUSE (17x)
+	                       OFFICE OF THE PARLIAMENTARIAN (4x)
+	                       OFFICE OF GENERAL COUNSEL (1x)
+	                       TECHNICAL ASSISTANTS (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (52x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         30 characters
+	Most common values:    SALARIES  OFFICERS & EMPLOYEES (52x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         22 characters
+	Most common values:    PERSONNEL COMPENSATION (47x)
+	                       OTHER SERVICES (3x)
+	                       EQUIPMENT (2x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  True (excluded from calculations)
+	Unique values:         6
+	Smallest value:        2017-01-16
+	Largest value:         2017-03-24
+	Most common values:    None (47x)
+	                       2017-01-16 (1x)
+	                       2017-02-16 (1x)
+	                       2017-03-16 (1x)
+	                       2017-03-24 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         2
+	Longest value:         2 characters
+	Most common values:    None (47x)
+	                       AP (5x)
+
+  8. "RECORDID"
+
+	Type of data:          Number
+	Contains null values:  True (excluded from calculations)
+	Unique values:         6
+	Smallest value:        900,663
+	Largest value:         912,393
+	Sum:                   4,524,728
+	Mean:                  904,945.6
+	Median:                902,751
+	StDev:                 5,150.484
+	Most common values:    None (47x)
+	                       900,663 (1x)
+	                       902,751 (1x)
+	                       908,136 (1x)
+	                       912,393 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         50
+	Longest value:         33 characters
+	Most common values:    NATIONAL CAPTIONING INSTITUTE (3x)
+	                       ARTHUR CAMILLA S. (1x)
+	                       BARRETT ROBERT R. (1x)
+	                       BATH GEORGE J (1x)
+	                       BEAUBIAN TRACI R. (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        2016-11-01
+	Largest value:         2017-04-09
+	Most common values:    2017-01-01 (48x)
+	                       2017-02-01 (1x)
+	                       2017-03-01 (1x)
+	                       2017-04-09 (1x)
+	                       2016-11-01 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        2016-12-13
+	Largest value:         2018-04-08
+	Most common values:    2017-03-31 (48x)
+	                       2017-01-31 (1x)
+	                       2017-02-28 (1x)
+	                       2018-04-08 (1x)
+	                       2016-12-13 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         44
+	Longest value:         45 characters
+	Most common values:    SENIOR ASSOCIATE COUNSEL (3x)
+	                       NON-TECHNOLOGY SERVICE CONTR (3x)
+	                       ASSISTANT CAO (2x)
+	                       CHIEF OF STAFF (2x)
+	                       SR BUSINESS  PROCESS APPL SPEC (2x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         12
+	Smallest value:        40,050.99
+	Largest value:         67,490.82
+	Sum:                   2,211,578.55
+	Mean:                  42,530.357
+	Median:                42,102.75
+	StDev:                 3,622.024
+	Most common values:    42,102.75 (27x)
+	                       43,125 (6x)
+	                       40,050.99 (4x)
+	                       42,674.01 (3x)
+	                       41,300 (3x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2,016
+	Largest value:         2,018
+	Sum:                   104,884
+	Mean:                  2,017
+	Median:                2,017
+	StDev:                 0.198
+	Most common values:    2,017 (50x)
+	                       2,018 (1x)
+	                       2,016 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         50
+	Longest value:         33 characters
+	Most common values:    NATIONAL CAPTIONING INSTITUTE (3x)
+	                       ARTHUR CAMILLA S. (1x)
+	                       BARRETT ROBERT R. (1x)
+	                       BATH GEORGE J (1x)
+	                       BEAUBIAN TRACI R. (1x)
+
+Row count: 52
